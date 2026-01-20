@@ -25,7 +25,8 @@ Target: Sales
 ## Output
 Predicts sales for given advertising budgets.
 
-<img width="866" height="768" alt="OUTPUT" src="https://github.com/user-attachments/assets/e3fc2db9-c5c0-44b0-9863-9cf075be0954" />
+<img width="866" height="730" alt="OUTPUT" src="https://github.com/user-attachments/assets/b0f66a61-e2ea-470b-a06d-ca01358e5b55" />
+
 
 ## Author
 Mrunalini P
